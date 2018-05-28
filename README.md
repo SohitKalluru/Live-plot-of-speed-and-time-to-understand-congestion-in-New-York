@@ -1,6 +1,6 @@
 # Live plot of speed and time to understand congestion in New York
 
-Authors:  **Vijay Ganesh Srinivasan** and **Ramakrishna Polepeddi**
+Authors:  **Sohit Reddy Kalluru** **Vijay Ganesh Srinivasan** and **Ramakrishna Polepeddi**
 
 ## Introduction
 - The objective of the program is to capture live data and plot the speed and time to understand the congestion in the New York boroughs.
