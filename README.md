@@ -9,9 +9,9 @@ Authors:  **Sohit Reddy Kalluru** , **Vijay Ganesh Srinivasan** and **Ramakrishn
 - For this program we have taken the Real-Time Traffic Speed Data from the NYC OpenData.
 
 **Output of Average Vehicle Speed**
-![Image of Plot](https://github.com/SohitKalluru/Live-plot-of-speed-and-time-to-understand-congestion-in-New-York/tree/master/Images/Capture_5.PNG)
+![Image of Plot](https://github.com/SohitKalluru/Live-plot-of-speed-and-time-to-understand-congestion-in-New-York/blob/master/Images/Capture_5.PNG)
 **Output of Average Travel Time**
-![Image of Plot](https://github.com/SohitKalluru/Live-plot-of-speed-and-time-to-understand-congestion-in-New-York/tree/master/Images/Capture_6.PNG)
+![Image of Plot](https://github.com/SohitKalluru/Live-plot-of-speed-and-time-to-understand-congestion-in-New-York/blob/master/Images/Capture_6.PNG)
 
 
 
@@ -46,7 +46,7 @@ Authors:  **Sohit Reddy Kalluru** , **Vijay Ganesh Srinivasan** and **Ramakrishn
 **Code summary**
 
 
-![Image of Plot](https://github.com/SohitKalluru/Live-plot-of-speed-and-time-to-understand-congestion-in-New-York/tree/master/Images/Capture_2.PNG)
+![Image of Plot](https://github.com/SohitKalluru/Live-plot-of-speed-and-time-to-understand-congestion-in-New-York/blob/master/Images/Capture_2.PNG)
 
 **The uploaded code is executed in the Jupyter environment. If you're trying to execute using Spyder, Windows Powershell or Apple command prompt the method may or may not vary**
 
@@ -84,13 +84,13 @@ display(df)
 
 Raw Data from the website:
 
-![Image of Plot](https://github.com/SohitKalluru/Live-plot-of-speed-and-time-to-understand-congestion-in-New-York/tree/master/Images/Capture_4.PNG)
+![Image of Plot](https://github.com/SohitKalluru/Live-plot-of-speed-and-time-to-understand-congestion-in-New-York/blob/master/Images/Capture_4.PNG)
 
 Structured Data from the website:
 
 The raw data is shown below as structured one by converting it into a dataframe using pandas.
 
-![Image of Plot](https://github.com/SohitKalluru/Live-plot-of-speed-and-time-to-understand-congestion-in-New-York/tree/master/Images/Capture_3.PNG)
+![Image of Plot](https://github.com/SohitKalluru/Live-plot-of-speed-and-time-to-understand-congestion-in-New-York/blob/master/Images/Capture_3.PNG)
 
 **Challenge faced when calculating the mean speed and mean time**
 
@@ -138,9 +138,9 @@ display(map)
 ```
 
 **Output of Average Vehicle Speed**
-![Image of Plot](https://github.com/SohitKalluru/Live-plot-of-speed-and-time-to-understand-congestion-in-New-York/tree/master/ImagesCapture_5.PNG)
+![Image of Plot](https://github.com/SohitKalluru/Live-plot-of-speed-and-time-to-understand-congestion-in-New-York/blob/master/Images/Capture_5.PNG)
 **Output of Average Travel Time**
-![Image of Plot](https://github.com/SohitKalluru/Live-plot-of-speed-and-time-to-understand-congestion-in-New-York/tree/master/Images/Capture_6.PNG)
+![Image of Plot](https://github.com/SohitKalluru/Live-plot-of-speed-and-time-to-understand-congestion-in-New-York/blob/master/Images/Capture_6.PNG)
 
 ---
 
@@ -157,7 +157,7 @@ display(map)
 	run Live_Traffic_Data.py
 	```
 
-![Image of Plot](https://github.com/SohitKalluru/Live-plot-of-speed-and-time-to-understand-congestion-in-New-York/tree/master/Images/Capture_7.PNG)
+![Image of Plot](https://github.com/SohitKalluru/Live-plot-of-speed-and-time-to-understand-congestion-in-New-York/blob/master/Images/Capture_7.PNG)
 
 ---
 
